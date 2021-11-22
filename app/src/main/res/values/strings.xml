@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieChooser</string>
+    <string name="welcome">Welcome!</string>
+    <string name="movie_generator">Movies</string>
+    <string name="movieSuggestion">Movie</string>
+    <string name="random_movie_button">Random Movie</string>
+    <string name="recommendation_header">Your movie recommendation is…</string>
+    <string name="home_button">Home</string>
+    <string name="settings_button">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
